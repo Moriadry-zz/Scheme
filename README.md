@@ -1,6 +1,6 @@
-# Scheme - Scheme interpreter written in Java as a little tool :)
+# Scheme - Scheme interpreter written in Java
 
-This is my implementation of a Scheme interpreter written in Java which is also my performance for improvement in my coding technology. 
+This is my implementation of a Scheme interpreter written in Java as a little toy and which is also my performance for improvement in my coding technology. 
 
 ## Getting started
 
